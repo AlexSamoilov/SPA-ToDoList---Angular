@@ -1,2 +1,2 @@
-# SPA-ToDoList---Angular
+# SPA ToDoList - Angular
 SPA on Angular
